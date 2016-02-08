@@ -15,8 +15,7 @@ In the meantime, why not:
 * [Check out the website](http://tryshoppe.com)
 * [View the demo site](http://demo.tryshoppe.com)
 * [Check out the demo site source](http://github.com/tryshoppe/example-store)
-* [Read the release notes](https://github.com/tryshoppe/core/blob/master/CHANGELOG.md)
-* [Read API documentation](http://api.tryshoppe.com)
+* [Read the release notes](https://github.com/adamcooke/shoppe/blob/master/CHANGELOG.md)
 
 ## Features
 
