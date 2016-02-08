@@ -3,10 +3,12 @@
 Shoppe is an Rails-based e-commerce platform which allows you to easily introduce a
 catalogue-based store into your Rails 4 applications.
 
-**Note: the platform is still under constant development and the API has not yet been
-finalised and functionality & features may change without notice. I do not recommend
-using Shoppe for any production sites yet. I'm hoping to release a v1.0 version in the
-very near future which will have a stable API.**
+***How is this different to [tryshoppe/shoppe](https://github.com/tryshoppe/shoppe)]?**
+Unfortunately, due to some poor management of pull requests and contributions on
+my part, the main version of Shoppe has become unmaintainable by me and I cannot
+continue to support it. In light of this, I have decided to maintain my own version
+of Shoppe based on my own last known "good" version. I can only apologise for my
+poor management of the original version. Apologies.
 
 In the meantime, why not:
 
